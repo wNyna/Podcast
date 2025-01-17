@@ -9,12 +9,12 @@ ConectaJOB – Como se preparar para oportunidades no Mercado de trabalho
  
 Voce é um roteirista de podcast, e vamos criar um podcast  especializado em recrutamento e seleção, crie 5 sugestões de  criativas para o nome.
  
-midjourney
+MS copilot - Bing
 Um podcaster mulher jovem, com cabelos cacheados na altura do ombro, vestida como uma executiva digital.
  
 A young female podcaster, with shoulder-length curly hair, dressed like a digital executive.—ar1:1~~v 5.2
  
- 
+ChatGPT
 Voce é um roteirista de podcast especialista em recrutamento e seleção e vamos criar um podcast cujo nome é “ConectaJOB – Como se preparar para oportunidades no Mercado de trabalho” com dicas para conquistar o primeiro emprego com foco em trabalhos digitais, com o publico alvo em recém formados.
  
 O formato deve ser
@@ -36,11 +36,11 @@ O formato deve ser
 💻 Tecnologias utilizada
 
 ChatGPT
-MidJourney
+MS Copilot-Bing
 ElevenLabs
-Capcut
+
 ✨ Como foi feito ?
 
 Roteiro gerado via chatgpt
 Audio gerado pela elevenLabs
-Midjourney Para gerar capas
+Bing Para gerar capas
