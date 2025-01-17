@@ -2,19 +2,26 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 TITULO
  
- 
 Chatgpt
  
 ConectaJOB – Como se preparar para oportunidades no Mercado de trabalho
  
 Voce é um roteirista de podcast, e vamos criar um podcast  especializado em recrutamento e seleção, crie 5 sugestões de  criativas para o nome.
  
+
+CAPA
+
 MS copilot - Bing
+
 Um podcaster mulher jovem, com cabelos cacheados na altura do ombro, vestida como uma executiva digital.
  
 A young female podcaster, with shoulder-length curly hair, dressed like a digital executive.—ar1:1~~v 5.2
  
+
+ROTEIRO
+
 ChatGPT
+
 Voce é um roteirista de podcast especialista em recrutamento e seleção e vamos criar um podcast cujo nome é “ConectaJOB – Como se preparar para oportunidades no Mercado de trabalho” com dicas para conquistar o primeiro emprego com foco em trabalhos digitais, com o publico alvo em recém formados.
  
 O formato deve ser
